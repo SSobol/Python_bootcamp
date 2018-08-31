@@ -11,4 +11,4 @@ Session 1_4 for dictionaries;
 
 Session 1_5 for numpy arrays;
 
-Session 1_6 for a short introductory use case for Pandas dataframes.
+Session 1_6 for a short introductory use case for Pandas dataframes. data.zip need to be downloaded and extracted in the notebook's folder.
